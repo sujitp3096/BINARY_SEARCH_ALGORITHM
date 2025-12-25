@@ -20,3 +20,27 @@ Binary Search efficiently finds an element in a sorted array by repeatedly divid
 
 ## 🎯 Use Case
 Used in searching large datasets efficiently such as databases and sorted collections.
+
+## 🖥 Sample Output
+
+Enter number of elements: 5
+Enter elements:
+10 5 30 20 15
+
+Enter element to search: 20
+
+Sorted Array: [5, 10, 15, 20, 30]
+Element found at index: 3
+
+## 🖥 Sample Output (Element Not Found)
+
+Enter number of elements: 5
+Enter elements:
+10 5 30 20 15
+
+Enter element to search: 25
+
+Sorted Array: [5, 10, 15, 20, 30]
+Element not found
+
+
