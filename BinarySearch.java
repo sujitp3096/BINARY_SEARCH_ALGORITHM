@@ -33,7 +33,7 @@ public class BinarySearch {
             arr[i] = sc.nextInt();
         }
 
-        Arrays.sort(arr); // Binary search requires sorted array
+        Arrays.sort(arr); 
 
         System.out.print("Enter element to search: ");
         int key = sc.nextInt();
@@ -47,4 +47,5 @@ public class BinarySearch {
         sc.close();
     }
 }
+
 
