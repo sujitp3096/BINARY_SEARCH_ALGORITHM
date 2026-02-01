@@ -20,7 +20,6 @@ public class BinarySearch {
         }
         return -1;
     }
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -45,7 +44,7 @@ public class BinarySearch {
             System.out.println("Element found at index: " + result);
         else
             System.out.println("Element not found");
-
         sc.close();
     }
 }
+
