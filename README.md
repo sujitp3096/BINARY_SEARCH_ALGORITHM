@@ -30,7 +30,7 @@ Enter elements:
 Enter element to search: 20
 
 Sorted Array: [5, 10, 20, 30]
-Element found at index: 
+Element found at index: 2
 
 ## 🖥 Sample Output (Element Not Found)
 
