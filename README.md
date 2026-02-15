@@ -25,12 +25,12 @@ Used in searching large datasets efficiently such as databases and sorted collec
 
 Enter number of elements: 5
 Enter elements:
-10 5 30 20 15
+10 5 30 20 
 
 Enter element to search: 20
 
-Sorted Array: [5, 10, 15, 20, 30]
-Element found at index: 3
+Sorted Array: [5, 10, 20, 30]
+Element found at index: 
 
 ## 🖥 Sample Output (Element Not Found)
 
