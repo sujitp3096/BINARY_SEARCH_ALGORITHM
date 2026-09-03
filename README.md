@@ -41,6 +41,6 @@ Enter elements:
 Enter element to search: 25
 
 Sorted Array: [5, 10, 15, 20, 30]
-Element not found
+Elemet not found
 
 
